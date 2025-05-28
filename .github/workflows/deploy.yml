@@ -32,4 +32,4 @@ jobs:
     steps:
       - name: Disparar deploy na Render - 🎯
         run: |
-          curl -X POST "https://api.render.com/deploy/srv-d0p81r3e5dus73di61mg?key=HrRtIWAc37s"
+          curl -X POST "https://api.render.com/deploy/srv-d0rp1abe5dus739pv780?key=t2rqXjtX72o"
