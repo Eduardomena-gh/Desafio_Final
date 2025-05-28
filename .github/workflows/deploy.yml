@@ -24,7 +24,7 @@ jobs:
         run: docker build -t flask-app .
 
       - name: Rodar testes dentro do container 
-        run: docker run --rm flask-app python testes.py.py
+        run: docker run --rm flask-app python testes.py
 
   deploy:
     runs-on: ubuntu-latest
