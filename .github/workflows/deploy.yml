@@ -1,4 +1,4 @@
-name: CI + Deploy Flask para Render
+name: CI/CD Pipeline Flask para Render
 on:
   push:
     branches:
